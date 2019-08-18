@@ -1,0 +1,31 @@
+{
+  "name": "@south-paw/styled-suite",
+  "version": "0.0.1-alpha",
+  "description": "",
+  "keywords": [
+    "react",
+    "component",
+    "styled-components",
+    "theme"
+  ],
+  "homepage": "https://github.com/South-Paw/styled-suite",
+  "bugs": "https://github.com/South-Paw/styled-suite/issues",
+  "license": "MIT",
+  "author": {
+    "name": "Alex Gabites",
+    "email": "hello@southpaw.co.nz",
+    "url": "http://southpaw.co.nz/"
+  },
+  "files": [],
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/South-Paw/styled-suite.git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "publishConfig": {
+    "access": "public"
+  }
+}
