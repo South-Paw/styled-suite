@@ -1,6 +1,6 @@
 {
   "name": "@south-paw/styled-suite",
-  "version": "0.0.2-alpha",
+  "version": "0.0.3-alpha",
   "description": "Some simple helpers and components to reduce boilerplate when building themed UIs",
   "keywords": [
     "react",
@@ -16,7 +16,9 @@
     "email": "hello@southpaw.co.nz",
     "url": "http://southpaw.co.nz/"
   },
-  "files": [],
+  "files": [
+    "src"
+  ],
   "main": "src/index.js",
   "repository": {
     "type": "git",
