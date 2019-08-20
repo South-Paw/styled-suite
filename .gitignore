@@ -1,0 +1,12 @@
+# project dependencies
+.cache
+node_modules
+*.log
+
+# do not commit
+.env
+build
+coverage
+
+# OS generated files
+.DS_Store
