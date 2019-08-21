@@ -1,6 +1,6 @@
 {
   "name": "@south-paw/styled-suite",
-  "version": "0.0.4-alpha",
+  "version": "0.0.5-alpha",
   "description": "Some simple helpers and components to reduce boilerplate when building themed UIs",
   "keywords": [
     "react",
@@ -19,7 +19,7 @@
   "files": [
     "dist"
   ],
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/South-Paw/styled-suite.git"
