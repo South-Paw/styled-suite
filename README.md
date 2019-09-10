@@ -3,12 +3,13 @@
 🏨 Some simple helpers and components to reduce boilerplate when building themed UIs
 
 [![npm](https://img.shields.io/npm/v/@south-paw/styled-suite.svg)](https://www.npmjs.com/package/@south-paw/styled-suite)
+[![CI Status](https://img.shields.io/travis/South-Paw/styled-suite.svg)](https://travis-ci.org/South-Paw/styled-suite)
+[![Coveralls Status](https://img.shields.io/coveralls/github/South-Paw/styled-suite.svg)](https://coveralls.io/github/South-Paw/styled-suite)
 [![Dependencies](https://david-dm.org/South-Paw/styled-suite/status.svg)](https://david-dm.org/South-Paw/styled-suite)
 [![Dev Dependencies](https://david-dm.org/South-Paw/styled-suite/dev-status.svg)](https://david-dm.org/South-Paw/styled-suite?type=dev)
 
 <!--
 [![Live Demo](https://img.shields.io/badge/netlify-live_demo-1e9498.svg)](https://styled-suite.netlify.com/)
-[![CI Status](https://img.shields.io/travis/South-Paw/styled-suite.svg)](https://travis-ci.org/South-Paw/styled-suite)
 -->
 
 ---
