@@ -7,11 +7,11 @@ const get = (token, keys, unit) => {
     obj = obj ? obj[key[i]] : undefined;
   }
 
-  if (!obj) {
+  if (obj === undefined) {
     console.warn(`[styled-suite] Got undefined for key '${keys}' in token:`, token);
   }
 
-  return unit && obj ? `${obj}${unit}` : obj;
+  return unit && obj !== undefined ? `${obj}${unit}` : obj;
 };
 
 export const breakpoints = keys => ({ theme: { breakpoints } }) => get(breakpoints, keys);
