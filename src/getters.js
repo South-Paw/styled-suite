@@ -1,4 +1,4 @@
-const get = (token, keys, unit) => {
+export const get = (token, keys, unit) => {
   const key = keys && keys.split ? keys.split('.') : [keys];
 
   let obj = token;
@@ -41,5 +41,7 @@ export const borders = keys => ({ theme: { borders } }) => get(borders, keys);
 export const radii = keys => ({ theme: { radii } }, units = 'px') => get(radii, keys, units);
 
 export const shadows = keys => ({ theme: { shadows } }) => get(shadows, keys);
+
+export const transitions = keys => ({ theme: { transitions } }) => get(transitions, keys);
 
 export const zIndices = keys => ({ theme: { zIndices } }) => get(zIndices, keys);
