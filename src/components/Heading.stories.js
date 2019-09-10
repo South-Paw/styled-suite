@@ -1,7 +1,7 @@
 import React from 'react';
 import { storiesOf } from '@storybook/react';
 
-import { Heading } from './index';
+import { Heading } from './Heading';
 
 const { add } = storiesOf('styled-suite|Heading', module);
 

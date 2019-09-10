@@ -1,7 +1,7 @@
 import React from 'react';
 import { storiesOf } from '@storybook/react';
 
-import { Text } from './index';
+import { Text } from './Text';
 
 const lorem = `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porttitor facilisis ornare. Fusce consectetur ornare risus, id sodales metus. Cras eget enim dignissim, bibendum diam eu, eleifend sapien. Quisque vel ligula purus. Nam a elementum ante. Pellentesque lacinia imperdiet tortor ut hendrerit.`;
 
