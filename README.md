@@ -38,8 +38,7 @@ styled-suite provides helpers that align with the [System UI Theme Specification
 
 ## TODO
 
-- [ ] Tests
-- [ ] Gatsby site for docs and component storybook?
+- [ ] Gatsby site for docs and component storybook
 - [ ] Finish readme
 
 ## Issues and Bugs
